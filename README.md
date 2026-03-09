@@ -17,5 +17,12 @@ This project analyzes Superstore sales data using SQL for data exploration and M
 * Data Visualization
 
 ## Dashboard Preview
+<div align="center">
+   <img width="882" height="490" alt="Dashboard_screenshot" src="https://github.com/user-attachments/assets/9cf0f2a5-aa1c-46b3-9a81-4f796f520fc5" />
+</div>
+
+  
+
+
 
 
